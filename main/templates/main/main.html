@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'main/bootstrap/css/bootstrap.min.css' %}" }>
+    <script src="{% static 'main/jquery-3.2.1.min.js' %}"></script>
+    <script src="{% static 'main/bootstrap/js/bootstrap.min.js' %}"></script>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#desktop">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Student Information System</a>
+            </div>
+            <div class="collapse navbar-collapse" id="desktop">
+                <ul class="nav navbar-nav">
+                    {% if user.is_authenticated %}
+                        <li><a href={% url 'logout' %}>Выход {{user.username}}</a></li>
+                    {% else %}
+                        <li><a href={% url 'login' %}>Вход</a></li>
+                    {% endif %}
+
+                    <li><a href={% url 'group_table' %}> Группы</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</head>
+<body>
+{% block content %}
+{% endblock %}
+<div class="alert alert-info text-center" role="alert">Настройки: {{ settings }}</div>
+</body>
+</html>

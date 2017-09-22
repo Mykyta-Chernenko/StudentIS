@@ -1,0 +1,1342 @@
+[
+  {
+    "model": "student_table.student",
+    "pk": 1331,
+    "fields": {
+      "student_card_id": "0",
+      "name": "name_0",
+      "surname": "surname_0",
+      "patronymic": "pat_0",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1332,
+    "fields": {
+      "student_card_id": "1",
+      "name": "name_1",
+      "surname": "surname_1",
+      "patronymic": "pat_1",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1333,
+    "fields": {
+      "student_card_id": "2",
+      "name": "name_2",
+      "surname": "surname_2",
+      "patronymic": "pat_2",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1334,
+    "fields": {
+      "student_card_id": "3",
+      "name": "name_3",
+      "surname": "surname_3",
+      "patronymic": "pat_3",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1335,
+    "fields": {
+      "student_card_id": "4",
+      "name": "name_4",
+      "surname": "surname_4",
+      "patronymic": "pat_4",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1336,
+    "fields": {
+      "student_card_id": "5",
+      "name": "name_5",
+      "surname": "surname_5",
+      "patronymic": "pat_5",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1337,
+    "fields": {
+      "student_card_id": "6",
+      "name": "name_6",
+      "surname": "surname_6",
+      "patronymic": "pat_6",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1338,
+    "fields": {
+      "student_card_id": "7",
+      "name": "name_7",
+      "surname": "surname_7",
+      "patronymic": "pat_7",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1339,
+    "fields": {
+      "student_card_id": "8",
+      "name": "name_8",
+      "surname": "surname_8",
+      "patronymic": "pat_8",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1340,
+    "fields": {
+      "student_card_id": "9",
+      "name": "name_9",
+      "surname": "surname_9",
+      "patronymic": "pat_9",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1341,
+    "fields": {
+      "student_card_id": "10",
+      "name": "name_10",
+      "surname": "surname_10",
+      "patronymic": "pat_10",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1342,
+    "fields": {
+      "student_card_id": "11",
+      "name": "name_11",
+      "surname": "surname_11",
+      "patronymic": "pat_11",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1343,
+    "fields": {
+      "student_card_id": "12",
+      "name": "name_12",
+      "surname": "surname_12",
+      "patronymic": "pat_12",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1344,
+    "fields": {
+      "student_card_id": "13",
+      "name": "name_13",
+      "surname": "surname_13",
+      "patronymic": "pat_13",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1345,
+    "fields": {
+      "student_card_id": "14",
+      "name": "name_14",
+      "surname": "surname_14",
+      "patronymic": "pat_14",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1346,
+    "fields": {
+      "student_card_id": "15",
+      "name": "name_15",
+      "surname": "surname_15",
+      "patronymic": "pat_15",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1347,
+    "fields": {
+      "student_card_id": "16",
+      "name": "name_16",
+      "surname": "surname_16",
+      "patronymic": "pat_16",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1348,
+    "fields": {
+      "student_card_id": "17",
+      "name": "name_17",
+      "surname": "surname_17",
+      "patronymic": "pat_17",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1349,
+    "fields": {
+      "student_card_id": "18",
+      "name": "name_18",
+      "surname": "surname_18",
+      "patronymic": "pat_18",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1350,
+    "fields": {
+      "student_card_id": "19",
+      "name": "name_19",
+      "surname": "surname_19",
+      "patronymic": "pat_19",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 70
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1351,
+    "fields": {
+      "student_card_id": "20",
+      "name": "name_20",
+      "surname": "surname_20",
+      "patronymic": "pat_20",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1352,
+    "fields": {
+      "student_card_id": "21",
+      "name": "name_21",
+      "surname": "surname_21",
+      "patronymic": "pat_21",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1353,
+    "fields": {
+      "student_card_id": "22",
+      "name": "name_22",
+      "surname": "surname_22",
+      "patronymic": "pat_22",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1354,
+    "fields": {
+      "student_card_id": "23",
+      "name": "name_23",
+      "surname": "surname_23",
+      "patronymic": "pat_23",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1355,
+    "fields": {
+      "student_card_id": "24",
+      "name": "name_24",
+      "surname": "surname_24",
+      "patronymic": "pat_24",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1356,
+    "fields": {
+      "student_card_id": "25",
+      "name": "name_25",
+      "surname": "surname_25",
+      "patronymic": "pat_25",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1357,
+    "fields": {
+      "student_card_id": "26",
+      "name": "name_26",
+      "surname": "surname_26",
+      "patronymic": "pat_26",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1358,
+    "fields": {
+      "student_card_id": "27",
+      "name": "name_27",
+      "surname": "surname_27",
+      "patronymic": "pat_27",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1359,
+    "fields": {
+      "student_card_id": "28",
+      "name": "name_28",
+      "surname": "surname_28",
+      "patronymic": "pat_28",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1360,
+    "fields": {
+      "student_card_id": "29",
+      "name": "name_29",
+      "surname": "surname_29",
+      "patronymic": "pat_29",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1361,
+    "fields": {
+      "student_card_id": "30",
+      "name": "name_30",
+      "surname": "surname_30",
+      "patronymic": "pat_30",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1362,
+    "fields": {
+      "student_card_id": "31",
+      "name": "name_31",
+      "surname": "surname_31",
+      "patronymic": "pat_31",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1363,
+    "fields": {
+      "student_card_id": "32",
+      "name": "name_32",
+      "surname": "surname_32",
+      "patronymic": "pat_32",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1364,
+    "fields": {
+      "student_card_id": "33",
+      "name": "name_33",
+      "surname": "surname_33",
+      "patronymic": "pat_33",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1365,
+    "fields": {
+      "student_card_id": "34",
+      "name": "name_34",
+      "surname": "surname_34",
+      "patronymic": "pat_34",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1366,
+    "fields": {
+      "student_card_id": "35",
+      "name": "name_35",
+      "surname": "surname_35",
+      "patronymic": "pat_35",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1367,
+    "fields": {
+      "student_card_id": "36",
+      "name": "name_36",
+      "surname": "surname_36",
+      "patronymic": "pat_36",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1368,
+    "fields": {
+      "student_card_id": "37",
+      "name": "name_37",
+      "surname": "surname_37",
+      "patronymic": "pat_37",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1369,
+    "fields": {
+      "student_card_id": "38",
+      "name": "name_38",
+      "surname": "surname_38",
+      "patronymic": "pat_38",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1370,
+    "fields": {
+      "student_card_id": "39",
+      "name": "name_39",
+      "surname": "surname_39",
+      "patronymic": "pat_39",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 71
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1371,
+    "fields": {
+      "student_card_id": "40",
+      "name": "name_40",
+      "surname": "surname_40",
+      "patronymic": "pat_40",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1372,
+    "fields": {
+      "student_card_id": "41",
+      "name": "name_41",
+      "surname": "surname_41",
+      "patronymic": "pat_41",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1373,
+    "fields": {
+      "student_card_id": "42",
+      "name": "name_42",
+      "surname": "surname_42",
+      "patronymic": "pat_42",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1374,
+    "fields": {
+      "student_card_id": "43",
+      "name": "name_43",
+      "surname": "surname_43",
+      "patronymic": "pat_43",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1375,
+    "fields": {
+      "student_card_id": "44",
+      "name": "name_44",
+      "surname": "surname_44",
+      "patronymic": "pat_44",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1376,
+    "fields": {
+      "student_card_id": "45",
+      "name": "name_45",
+      "surname": "surname_45",
+      "patronymic": "pat_45",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1377,
+    "fields": {
+      "student_card_id": "46",
+      "name": "name_46",
+      "surname": "surname_46",
+      "patronymic": "pat_46",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1378,
+    "fields": {
+      "student_card_id": "47",
+      "name": "name_47",
+      "surname": "surname_47",
+      "patronymic": "pat_47",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1379,
+    "fields": {
+      "student_card_id": "48",
+      "name": "name_48",
+      "surname": "surname_48",
+      "patronymic": "pat_48",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1380,
+    "fields": {
+      "student_card_id": "49",
+      "name": "name_49",
+      "surname": "surname_49",
+      "patronymic": "pat_49",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1381,
+    "fields": {
+      "student_card_id": "50",
+      "name": "name_50",
+      "surname": "surname_50",
+      "patronymic": "pat_50",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1382,
+    "fields": {
+      "student_card_id": "51",
+      "name": "name_51",
+      "surname": "surname_51",
+      "patronymic": "pat_51",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1383,
+    "fields": {
+      "student_card_id": "52",
+      "name": "name_52",
+      "surname": "surname_52",
+      "patronymic": "pat_52",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1384,
+    "fields": {
+      "student_card_id": "53",
+      "name": "name_53",
+      "surname": "surname_53",
+      "patronymic": "pat_53",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1385,
+    "fields": {
+      "student_card_id": "54",
+      "name": "name_54",
+      "surname": "surname_54",
+      "patronymic": "pat_54",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1386,
+    "fields": {
+      "student_card_id": "55",
+      "name": "name_55",
+      "surname": "surname_55",
+      "patronymic": "pat_55",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1387,
+    "fields": {
+      "student_card_id": "56",
+      "name": "name_56",
+      "surname": "surname_56",
+      "patronymic": "pat_56",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1388,
+    "fields": {
+      "student_card_id": "57",
+      "name": "name_57",
+      "surname": "surname_57",
+      "patronymic": "pat_57",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1389,
+    "fields": {
+      "student_card_id": "58",
+      "name": "name_58",
+      "surname": "surname_58",
+      "patronymic": "pat_58",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1390,
+    "fields": {
+      "student_card_id": "59",
+      "name": "name_59",
+      "surname": "surname_59",
+      "patronymic": "pat_59",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 72
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1391,
+    "fields": {
+      "student_card_id": "60",
+      "name": "name_60",
+      "surname": "surname_60",
+      "patronymic": "pat_60",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1392,
+    "fields": {
+      "student_card_id": "61",
+      "name": "name_61",
+      "surname": "surname_61",
+      "patronymic": "pat_61",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1393,
+    "fields": {
+      "student_card_id": "62",
+      "name": "name_62",
+      "surname": "surname_62",
+      "patronymic": "pat_62",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1394,
+    "fields": {
+      "student_card_id": "63",
+      "name": "name_63",
+      "surname": "surname_63",
+      "patronymic": "pat_63",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1395,
+    "fields": {
+      "student_card_id": "64",
+      "name": "name_64",
+      "surname": "surname_64",
+      "patronymic": "pat_64",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1396,
+    "fields": {
+      "student_card_id": "65",
+      "name": "name_65",
+      "surname": "surname_65",
+      "patronymic": "pat_65",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1397,
+    "fields": {
+      "student_card_id": "66",
+      "name": "name_66",
+      "surname": "surname_66",
+      "patronymic": "pat_66",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1398,
+    "fields": {
+      "student_card_id": "67",
+      "name": "name_67",
+      "surname": "surname_67",
+      "patronymic": "pat_67",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1399,
+    "fields": {
+      "student_card_id": "68",
+      "name": "name_68",
+      "surname": "surname_68",
+      "patronymic": "pat_68",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1400,
+    "fields": {
+      "student_card_id": "69",
+      "name": "name_69",
+      "surname": "surname_69",
+      "patronymic": "pat_69",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1401,
+    "fields": {
+      "student_card_id": "70",
+      "name": "name_70",
+      "surname": "surname_70",
+      "patronymic": "pat_70",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1402,
+    "fields": {
+      "student_card_id": "71",
+      "name": "name_71",
+      "surname": "surname_71",
+      "patronymic": "pat_71",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1403,
+    "fields": {
+      "student_card_id": "72",
+      "name": "name_72",
+      "surname": "surname_72",
+      "patronymic": "pat_72",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1404,
+    "fields": {
+      "student_card_id": "73",
+      "name": "name_73",
+      "surname": "surname_73",
+      "patronymic": "pat_73",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1405,
+    "fields": {
+      "student_card_id": "74",
+      "name": "name_74",
+      "surname": "surname_74",
+      "patronymic": "pat_74",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1406,
+    "fields": {
+      "student_card_id": "75",
+      "name": "name_75",
+      "surname": "surname_75",
+      "patronymic": "pat_75",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1407,
+    "fields": {
+      "student_card_id": "76",
+      "name": "name_76",
+      "surname": "surname_76",
+      "patronymic": "pat_76",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1408,
+    "fields": {
+      "student_card_id": "77",
+      "name": "name_77",
+      "surname": "surname_77",
+      "patronymic": "pat_77",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1409,
+    "fields": {
+      "student_card_id": "78",
+      "name": "name_78",
+      "surname": "surname_78",
+      "patronymic": "pat_78",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1410,
+    "fields": {
+      "student_card_id": "79",
+      "name": "name_79",
+      "surname": "surname_79",
+      "patronymic": "pat_79",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 73
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1411,
+    "fields": {
+      "student_card_id": "80",
+      "name": "name_80",
+      "surname": "surname_80",
+      "patronymic": "pat_80",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1412,
+    "fields": {
+      "student_card_id": "81",
+      "name": "name_81",
+      "surname": "surname_81",
+      "patronymic": "pat_81",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1413,
+    "fields": {
+      "student_card_id": "82",
+      "name": "name_82",
+      "surname": "surname_82",
+      "patronymic": "pat_82",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1414,
+    "fields": {
+      "student_card_id": "83",
+      "name": "name_83",
+      "surname": "surname_83",
+      "patronymic": "pat_83",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1415,
+    "fields": {
+      "student_card_id": "84",
+      "name": "name_84",
+      "surname": "surname_84",
+      "patronymic": "pat_84",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1416,
+    "fields": {
+      "student_card_id": "85",
+      "name": "name_85",
+      "surname": "surname_85",
+      "patronymic": "pat_85",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1417,
+    "fields": {
+      "student_card_id": "86",
+      "name": "name_86",
+      "surname": "surname_86",
+      "patronymic": "pat_86",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1418,
+    "fields": {
+      "student_card_id": "87",
+      "name": "name_87",
+      "surname": "surname_87",
+      "patronymic": "pat_87",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1419,
+    "fields": {
+      "student_card_id": "88",
+      "name": "name_88",
+      "surname": "surname_88",
+      "patronymic": "pat_88",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1420,
+    "fields": {
+      "student_card_id": "89",
+      "name": "name_89",
+      "surname": "surname_89",
+      "patronymic": "pat_89",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1421,
+    "fields": {
+      "student_card_id": "90",
+      "name": "name_90",
+      "surname": "surname_90",
+      "patronymic": "pat_90",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1422,
+    "fields": {
+      "student_card_id": "91",
+      "name": "name_91",
+      "surname": "surname_91",
+      "patronymic": "pat_91",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1423,
+    "fields": {
+      "student_card_id": "92",
+      "name": "name_92",
+      "surname": "surname_92",
+      "patronymic": "pat_92",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1424,
+    "fields": {
+      "student_card_id": "93",
+      "name": "name_93",
+      "surname": "surname_93",
+      "patronymic": "pat_93",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1425,
+    "fields": {
+      "student_card_id": "94",
+      "name": "name_94",
+      "surname": "surname_94",
+      "patronymic": "pat_94",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1426,
+    "fields": {
+      "student_card_id": "95",
+      "name": "name_95",
+      "surname": "surname_95",
+      "patronymic": "pat_95",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1427,
+    "fields": {
+      "student_card_id": "96",
+      "name": "name_96",
+      "surname": "surname_96",
+      "patronymic": "pat_96",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1428,
+    "fields": {
+      "student_card_id": "97",
+      "name": "name_97",
+      "surname": "surname_97",
+      "patronymic": "pat_97",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1429,
+    "fields": {
+      "student_card_id": "98",
+      "name": "name_98",
+      "surname": "surname_98",
+      "patronymic": "pat_98",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.student",
+    "pk": 1430,
+    "fields": {
+      "student_card_id": "99",
+      "name": "name_99",
+      "surname": "surname_99",
+      "patronymic": "pat_99",
+      "photo": "student_images/xGIzcoSx718_DABHUCQ.jpg",
+      "date_of_birth": "1999-05-17",
+      "student_group": 74
+    }
+  },
+  {
+    "model": "student_table.group",
+    "pk": 70,
+    "fields": {
+      "name": "group_0",
+      "head": 1350
+    }
+  },
+  {
+    "model": "student_table.group",
+    "pk": 71,
+    "fields": {
+      "name": "group_1",
+      "head": 1370
+    }
+  },
+  {
+    "model": "student_table.group",
+    "pk": 72,
+    "fields": {
+      "name": "group_2",
+      "head": 1390
+    }
+  },
+  {
+    "model": "student_table.group",
+    "pk": 73,
+    "fields": {
+      "name": "group_3",
+      "head": 1410
+    }
+  },
+  {
+    "model": "student_table.group",
+    "pk": 74,
+    "fields": {
+      "name": "group_4",
+      "head": 1430
+    }
+  }
+]

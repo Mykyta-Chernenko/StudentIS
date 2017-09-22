@@ -1,0 +1,55 @@
+{% extends "main/main.html" %}
+
+{% block content %}
+    {{ students.first.group }}
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <td>Name</td>
+            <td>Surname</td>
+            <td>Patronymic</td>
+            <td>Date of birth</td>
+            <td>Card id</td>
+            <td>Photo</td>
+        </tr>
+        </thead>
+        <tbody>
+        {% for student in students %}
+            <tr>
+                <td>
+                    {{ student.name }}
+                </td>
+                <td>
+                    {{ student.surname }}
+                </td>
+                <td>
+                    {{ student.patronymic }}
+                </td>
+                <td>
+                    {{ student.date_of_birth }}
+                </td>
+                <td>
+                    {{ student.student_card_id }}
+                </td>
+                <td>
+                    <img src="{% url 'get_photo' image_url=student.photo %}" width="100px" height="100px">
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% if students.has_previous %}
+        <button type="button" class="btn  btn-default">
+            <a href="?page={{ students.previous_page_number }}">previous</a>
+        </button>
+    {% endif %}
+
+    <span class="current">
+            Page {{ students.number }} of {{ students.paginator.num_pages }}.
+    </span>
+    {% if students.has_next %}
+        <button type="button" class="btn btn-default">
+            <a href="?page={{ students.next_page_number }}">next</a>
+        </button>
+    {% endif %}
+{% endblock %}
